@@ -1,0 +1,11 @@
+Ctrl+N 查找类
+Ctrl + F12  在当前类中查找方法
+Ctrl+Shift+N  使用文件名来进行搜索
+Ctrl+H  查看类继承关系
+Ctrl+Alt+B  查看父类以及定义的方法
+Alt+F7 查找类和方法在哪里被使用的
+Ctrl+F 在当前页面查找
+Ctrl+Shift+F 在整个工程桩查找
+Shift+Shift 任意查找
+Ctrl+R 当前页替换
+Ctrl+Shift+R  整个工程替换
